@@ -1,5 +1,7 @@
 # Drug Repurposing using Knowledge Graphs
 
+Files Required for the project - https://drive.google.com/drive/folders/18R2rzZfK-V6MRhZx-EBCSw-zr1P4shW0?usp=sharing
+
 The project addresses the need for rapid drug discovery by proposing the construction and analysis of a comprehensive Drug Repurposing Knowledge Graph (DRKG) to facilitate the identification of potential treatments for Covid-19 and other diseases. Drug Repurposing invloves finding new therapeutics uses for existing drugs, accelerating drug devolpment and reducing cost.
 
 
