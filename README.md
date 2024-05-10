@@ -48,7 +48,9 @@ Formulating Drug Repurposing as Knowledge Graph Completion:
 
 ### Trans-E Model
   The TransE model optimizes an objective function to learn embeddings. The objective function is designed to minimize the energy or scoring function associated with triplets (h, r, t), where h is the head entity, r is the relation, and t is the tail entity. 
+  
 ![image](https://github.com/DINESHKUMAR-05/Drug-Repurposing-using-Knowledge-Graphs/assets/111517362/518ffad2-a73d-4046-a4c2-a356c2ac3e96)
+
 Here,
   - f(h,r,t) is the energy or score associated with the triplet.
   - γ is a margin parameter.
